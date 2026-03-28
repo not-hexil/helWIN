@@ -1,0 +1,1 @@
+This directory contains the default configurations provided by komorebi documentation. FOr further configuration or reading, refer to their documentations.

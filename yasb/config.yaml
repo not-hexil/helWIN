@@ -268,7 +268,7 @@ widgets:
         label_alt: "<span>\udb84\ude6c</span>"
         class_name: "clipboard-widget"
         callbacks:
-          on_left: "exec %userprofile%\\.config\\yasb\\toggle-clipboard.exe"
+          on_left: "exec %userprofile%\\.config\\yasb\\toggle-files\\toggle-clipboard.exe"
   
   wallpapers:
     type: "yasb.wallpapers.WallpapersWidget"
@@ -314,7 +314,7 @@ widgets:
         label_alt: "<span>\uf085</span>"
         class_name: "quick-settings-widget"
         callbacks:
-          on_left: "exec %userprofile%\\.config\\yasb\\toggle-quicksettings.exe"
+          on_left: "exec %userprofile%\\.config\\yasb\\toggle-files\\toggle-quicksettings.exe"
   
   volume:
     type: "yasb.volume.VolumeWidget"
