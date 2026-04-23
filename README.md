@@ -25,11 +25,12 @@ https://github.com/user-attachments/assets/5557a042-bdc8-4211-95ac-9acd9a8ac884
 * [Windhawk](https://windhawk.net/)
 * [Rainmeter](https://www.rainmeter.net/)
 * [Fastfetch](https://github.com/fastfetch-cli/fastfetch.git)
+* [Oh My Posh](https://ohmyposh.dev/)
 
 ## Usage
 Create the `.config` folder in your root directory if it doesn't exist already:
 ```powershell
-if (!(Test-Path "$HOME\.config")) { New-Item -ItemType Directory -Path "$HOME\.config" }
+if (!(Test-Path "%USERPROFILE%\.config")) { New-Item -ItemType Directory -Path "%USERPROFILE%\.config" }
 ```
 
 Clone the repo:
@@ -63,6 +64,9 @@ Follow the documentation provided.
 Follow the documentation provided.
 
 ### Rainmeter
+To be updated.
+
+## Powershell
 To be updated.
 
 ## Acknowledgements:
