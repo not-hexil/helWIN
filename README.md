@@ -11,10 +11,10 @@ A customized theme for Windows using YASB, Komorebi, whkd, Rainmeter, and Windha
 7. PowerShell customization using **Oh My Posh** and **Fastfetch**
 
 ### Desktop UI Preview
-![Desktop UI Preview](https://github.com/user-attachments/assets/6e9043fd-e71d-4001-b96e-94b237e04ff6)
+https://github.com/user-attachments/assets/6e9043fd-e71d-4001-b96e-94b237e04ff6
 
 ### PowerShell Preview
-![PowerShell Preview](https://github.com/user-attachments/assets/5557a042-bdc8-4211-95ac-9acd9a8ac884)
+https://github.com/user-attachments/assets/5557a042-bdc8-4211-95ac-9acd9a8ac884
 
 ## System Details:
 * **OS:** Windows 11 Pro
