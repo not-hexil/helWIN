@@ -66,7 +66,7 @@ Follow the documentation provided.
 ### Rainmeter
 To be updated.
 
-## Powershell
+### Powershell
 To be updated.
 
 ## Acknowledgements:
